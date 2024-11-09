@@ -28,7 +28,6 @@ $jenis_kelamin = $_POST ['Jenis_Kelamin'];
     <title>form jurusan</title>
 </head>
 <body>
-    <table>
 <nav class="navbar navbar-expand-lg bg-secondary-subtle">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
@@ -120,6 +119,6 @@ $jenis_kelamin = $_POST ['Jenis_Kelamin'];
 </div>
     <script src="js/bootstrap.js"></script>
     <script src="js/bootstrap.bundle.js"></script>
-    </table>
+ 
 </body>
 </html>

@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/bootstrap.css">
 </head>
 <body>
-    <table>
+   
 <nav class="navbar navbar-expand-lg bg-info-subtle">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
@@ -114,6 +114,6 @@
 
     <script src="js/bootstrap.js"></script>
     <script src="js/bootstrap.bundle.js"></script>
-    </table>
+    
 </body>
 </html>
